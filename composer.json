@@ -1,0 +1,19 @@
+{
+    "name": "jaquegomes/bora-beber",
+    "description": "Projeto da aula de Programação para internet do curso de GTI da Fatec Jahu",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app//"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jaqueline V. Gomes",
+            "email": "jaqueline.mengon@fatec.sp.gov.br"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
